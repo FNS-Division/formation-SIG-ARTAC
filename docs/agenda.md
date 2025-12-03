@@ -25,7 +25,7 @@ L'atelier a lieu le 15 et 16 Décembre 2025 a N'Djamena, Tchad à l'hôtel Radis
 
 | Horaire | Session |
 |---------|---------|
-| 09:00-10:30 | Analyse du trajet de la fibre optique et de la couverture fixe |
+| 09:00-10:30 | Analyse du tracé de la fibre optique et de la couverture fixe |
 | 10:30-11:00 | Pause-café |
 | 11:00-12:30 | Analyse de couverture mobile (3G, 4G, 5G) |
 | 12:30-13:30 | Pause déjeuner |
