@@ -1,0 +1,22 @@
+site_name: Atelier de cartographie du haut débit en Afrique Centrale
+
+nav:
+    - Accueil: index.md
+    - Agenda: agenda.md
+    - Présentations: presentation.md
+    - Solutions des travaux pratiques: solutions.md
+    - Jeux de données: datasets.md
+    - Installation de QGIS: qgis_installation.md
+
+theme:
+  name: null
+  custom_dir: 'mkdocs_docskimmer'
+  include_search_page: true
+  search_index_only: false
+  static_templates:
+  - 404.html
+
+plugins: ['search']
+
+extra:
+    version: 0.4.0
