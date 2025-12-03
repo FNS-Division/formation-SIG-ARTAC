@@ -1,6 +1,6 @@
 # Jeux de données
 
-## 2.1 Analyse du trajet de la fibre optique
+## 2.1 Analyse du tracé de la fibre optique
 [📁 Dossier complet](https://drive.google.com/drive/folders/1a6wIdWKYawrbaPUeMI9-xGn6DlwXXzhz?usp=drive_link)
 
 - [Écoles à N'Djamena](https://drive.google.com/file/d/1jMWhz6TF9IWnFH3z_04amicGOVEtWn2J/view?usp=drive_link) - `NDjamena-ecoles.gpkg`
@@ -26,3 +26,23 @@
 
 - [Écoles au Tchad](https://drive.google.com/file/d/1UyQ2vYH2a45Hpt-iNSNQ_UBf1cfMdUDA/view?usp=drive_link) - `Tchad-ecoles.geojson`
 - [Population au Tchad](https://drive.google.com/file/d/1WZQiXhRKttlR9OYV1VBUAJTomXdC-rXm/view?usp=drive_link) - `tcd_pop_2025_CN_100m_R2025A_v1.tif`
+
+## Données supplémentaires pour l'Afrique Centrale
+
+### 1. Réseaux de Fibre Optique (Noeuds et Lignes)
+- **Données** : [Accéder au dossier](https://drive.google.com/drive/folders/1pQ0F7sIJjGx0rZLE0teRmOw_7I9-fpKZ?usp=drive_link)
+- **Métadonnées** : [Présentation](https://docs.google.com/presentation/d/10DZP5sKEhgzjvIFHVKAtJEdOZWl5ZxWf/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+
+### 2. Réseau Routier (Lignes)
+- **Données** : [Accéder au dossier](https://drive.google.com/drive/folders/1wkH8ie_MAghX6oQxkc_RkKoDoPLQmei6?usp=drive_link)
+- **Source** : OpenStreetMap
+
+### 3. Zones de Couverture Mobile (2G/3G/4G/5G)
+- **Données** : [Accéder au dossier](https://drive.google.com/drive/folders/1-S9fiG-vVKgG399OFiG1EeZUe1ydjh-Z?usp=drive_link)
+- **Métadonnées** : [Tableau](https://docs.google.com/spreadsheets/d/1OVwse-uKWnOEE9b0962E9_e54RvHEzMC/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+- **Sources** : Opérateurs Télécom
+
+### 4. Population (résolution de 100 mètres)
+- **Données** : [Accéder au dossier](https://drive.google.com/drive/folders/1jWrrQ7n3v1ujhpUX6Ocyx9qG41kzGuys?usp=drive_link)
+- **Source** : WorldPop
+

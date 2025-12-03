@@ -11,7 +11,7 @@
 - **1.8** [Présentation de la recherche documentaire sur les réseaux de fibre optique en Afrique Centrale](https://docs.google.com/presentation/d/10DZP5sKEhgzjvIFHVKAtJEdOZWl5ZxWf/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
 
 ## 16 Décembre 2025
-- **2.1** [Travail pratique: Analyse du trajet de la fibre optique](https://docs.google.com/presentation/d/1KajJrHzU2Tvnmcy1IBLg68NCbvXwqjJj/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+- **2.1** [Travail pratique: Analyse du tracé de la fibre optique](https://docs.google.com/presentation/d/1KajJrHzU2Tvnmcy1IBLg68NCbvXwqjJj/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
 - **2.2** [Travail pratique: Analyse de la couverture mobile](https://docs.google.com/presentation/d/1PimcLdUBFdpYQCOEq3aPovpv5RpgA4Y0/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
 - **2.3** [Travail pratique: Analyse de la couverture fixe](https://docs.google.com/presentation/d/1KajJrHzU2Tvnmcy1IBLg68NCbvXwqjJj/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
 - **2.4** [Travail pratique: Analyse de la population et de la demande de connectivité](https://docs.google.com/presentation/d/1rcsc9xzqaUlkQC_HU0S3gzdOAMPGGjrT/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
