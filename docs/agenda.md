@@ -32,3 +32,19 @@ L'atelier a lieu le 15 et 16 Décembre 2025 a N'Djamena, Tchad à l'hôtel Radis
 | 13:30-15:15 | Analyse de la population et de la demande de connectivité |
 | 15:15-15:30 | Pause-café |
 | 15:30-16:30 | Introduction à la plateforme CPP de l'UIT pour la planification de la connectivité<br>Échanges et partages de vues sur les prochaines étapes |
+
+## 17 Décembre 2025
+
+### Clinique de sécurité de SFN
+
+| Horaire | Session |
+|---------|---------|
+| 08:30-09:00 | **Séance d'ouverture**<br>• Allocution de l'ARTAC<br>• Allocution de l'UIT |
+| 09:00-10:15 | Introduction au laboratoire de sécurité de SFN de l'UIT et à la plate-forme de partage des connaissances<br>*Intervenant : Vijay Mauree, Venkatesen, UIT* |
+| 10:15-10:30 | Pause-café |
+| 10:30-12:30 | **Recommandations de sécurité de SFN de l'UIT – Partie 1**<br>• Recommandations de sécurité pour se protéger contre les risques de SFN liés aux cartes SIM et à la fraude par échange de cartes SIM<br>• Modèle de protocole d'accord type entre un régulateur des télécommunications et une banque centrale sur la sécurité des services financiers numériques<br>• Recommandations à l'intention des régulateurs pour atténuer les vulnérabilités SS7<br>• Cadre de compétences de SFN pour les consommateurs<br>*Intervenant : Vijay Mauree, Venkatesen, UIT* |
+| 12:30-13:30 | Pause déjeuner |
+| 13:30-14:45 | **Recommandations de sécurité de SFN de l'UIT – Partie 2**<br>Bonnes pratiques en matière de sécurité des applications<br>*Intervenant : Vijay Mauree, Venkatesen, UIT* |
+| 14:45-15:00 | Pause-café |
+| 15:00-16:00 | Cadre de cyberrésilience des SFN<br>*Intervenant : Vijay Mauree, Venkatesen, UIT* |
+| 16:00-17:00 | Discussion ouverte : Adoption des recommandations de sécurité de SFN de l'UIT |
