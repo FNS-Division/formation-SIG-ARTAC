@@ -1,6 +1,6 @@
 # Agenda
 
-L'atelier a lieu le 15 et 16 Décembre 2025 a N'Djamena, Tchad à l'hôtel Radisson Blu (Quartier Sabangali, Cité du 1er Décembre, N'Djamena, Chad).
+L'atelier a lieu le 15 et 16 Décembre 2025 a N'Djamena, Tchad à l'hôtel l'Amitié (ancien Kempinski).
 
 ## 15 Décembre 2025
 
