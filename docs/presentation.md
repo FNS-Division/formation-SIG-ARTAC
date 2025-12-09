@@ -15,3 +15,4 @@
 - **2.2** [Travail pratique: Analyse de la couverture mobile](https://docs.google.com/presentation/d/1PimcLdUBFdpYQCOEq3aPovpv5RpgA4Y0/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
 - **2.3** [Travail pratique: Analyse de la couverture fixe](https://docs.google.com/presentation/d/1KajJrHzU2Tvnmcy1IBLg68NCbvXwqjJj/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
 - **2.4** [Travail pratique: Analyse de la population et de la demande de connectivité](https://docs.google.com/presentation/d/1rcsc9xzqaUlkQC_HU0S3gzdOAMPGGjrT/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+- **Quizz** [Travaux pratiques](https://www.menti.com/alt9e98iatb2)
