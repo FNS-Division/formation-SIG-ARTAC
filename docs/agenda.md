@@ -25,11 +25,11 @@ L'atelier a lieu le 15 et 16 Décembre 2025 a N'Djamena, Tchad à l'hôtel l'Ami
 
 | Horaire | Session |
 |---------|---------|
-| 09:00-10:30 | Analyse du tracé de la fibre optique et de la couverture fixe |
+| 09:00-10:30 | Analyse du tracé de la fibre optique et de la couverture mobile (3G, 4G, 5G) [Logiciel: QGIS] |
 | 10:30-11:00 | Pause-café |
-| 11:00-12:30 | Analyse de couverture mobile (3G, 4G, 5G) |
+| 11:00-12:30 | Analyse de la population et de la demande de connectivité [Logiciel: QGIS] |
 | 12:30-13:30 | Pause déjeuner |
-| 13:30-15:15 | Analyse de la population et de la demande de connectivité |
+| 13:30-15:15 | Analyse de la couverture fixe [Logiciel: Google Colab / QGIS] |
 | 15:15-15:30 | Pause-café |
 | 15:30-16:30 | Introduction à la plateforme CPP de l'UIT pour la planification de la connectivité<br>Échanges et partages de vues sur les prochaines étapes |
 
