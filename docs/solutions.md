@@ -20,4 +20,4 @@ Ces fichiers au format `.model3` contiennent des modèles de traitement QGIS qui
 
 ## Cahiers Python (Google Colab)
 
-- **2.4** [Analyse de la couverture fixe](https://drive.google.com/drive/folders/1eoqxxhmVF84l9wrOEnwtIzlVZecdPSPS?usp=drive_link) - `couverture_fixe.ipynb` - Afin d'ouvrir ce cahier Python avec Google Colaboratory, cliquer sur les trois points à droite et cliquer sur **Ouvrir avec Google Colaboratory**. Il vous faudra un compte Google (par éxemple, Gmail) afin d'ouvrir ce fichier.
+- **2.4** [Analyse de la couverture fixe](https://drive.google.com/drive/folders/1eoqxxhmVF84l9wrOEnwtIzlVZecdPSPS?usp=drive_link) - `couverture_fixe.ipynb` - Afin d'ouvrir ce cahier Python avec Google Colaboratory, cliquez sur les trois points à droite et cliquez sur **Ouvrir avec Google Colaboratory**. Il vous faudra un compte Google (par éxemple, Gmail) afin d'ouvrir ce fichier.
