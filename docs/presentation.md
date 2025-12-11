@@ -8,7 +8,7 @@
 - **Quizz** [Concepts de base en SIG](https://www.menti.com/al7kzkwjwsni)
 - **1.5** [Introduction au logiciel QGIS](https://docs.google.com/presentation/d/1RfLTO_HeZi1WnfONalWP3XWmtNanNKT-/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
 - **1.6** [Extraction des données ouvertes sur l'infrastructure TIC](https://docs.google.com/presentation/d/1JzH1dBiMCp_HDlbrvPcDIkcXqrS26Ix9/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
-- **1.7** [Présentation de la recherche documentaire sur les réseaux de fibre optique en Afrique Centrale](https://docs.google.com/presentation/d/10DZP5sKEhgzjvIFHVKAtJEdOZWl5ZxWf/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
+- **1.7** [Présentation de la recherche documentaire sur les réseaux de fibre optique en Afrique Centrale](https://docs.google.com/presentation/d/1cb3fLRdZJIFJs0ZVlVaqA7_bUtBk2GsD/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
 
 ## 16 Décembre 2025
 - **2.1** [Travail pratique: Analyse du tracé de la fibre optique](https://docs.google.com/presentation/d/1KajJrHzU2Tvnmcy1IBLg68NCbvXwqjJj/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
