@@ -10,8 +10,7 @@ L'atelier a lieu le 15 et 16 Décembre 2025 a N'Djamena, Tchad à l'hôtel l'Ami
 |---------|-------|---------|
 | 08:30-09:30 | 60 min | Accueil et distribution des kits de formation |
 | 09:30-09:45 | 15 min | Mot de bienvenue <br>*Intervenante : Directrice de la communication et de la coopération internationale* |
-| 09:45-10:00 | 15 min | Présentation du contexte de la collaboration UIT-ARTAC
-<br>*Intervenant : Serge Valery, UIT* |
+| 09:45-10:00 | 15 min | Présentation du contexte de la collaboration UIT-ARTAC <br>*Intervenant : Serge Valery, UIT* |
 | 10:00-10:30 | 30 min | Introduction de la formation et tour de table des participants <br>*Intervenant : Sébastien Peytrignet, UIT* |
 | 10:30-11:00 | 30 min | **Pause-café** |
 | 11:00-11:30 | 30 min | Planification du déploiement des infrastructures TIC <br>*Intervenant : Sébastien Peytrignet, UIT* |
@@ -48,7 +47,7 @@ L'atelier a lieu le 15 et 16 Décembre 2025 a N'Djamena, Tchad à l'hôtel l'Ami
 
 | Horaire | Durée | Session |
 |---------|-------|---------|
-| 09:00-10:15 | 75 min | Introduction au laboratoire de sécurité de SFN de l'UIT et à la plate-forme de partage des connaissances<br>*Intervenant : Vijay Mauree, Venkatesen, UIT* |
+| 09:00-10:15 | 75 min | Introduction au laboratoire de sécurité de SFN de l'UIT et à la plate-forme de partage des connaissances <br>*Intervenant : Vijay Mauree, Venkatesen, UIT* |
 | 10:15-10:30 | 15 min | **Pause-café** |
 | 10:30-12:30 | 120 min | **Recommandations de sécurité de SFN de l'UIT – Partie 1**<br>• Recommandations de sécurité pour se protéger contre les risques de SFN liés aux cartes SIM et à la fraude par échange de cartes SIM<br>• Modèle de protocole d'accord type entre un régulateur des télécommunications et une banque centrale sur la sécurité des services financiers numériques<br>• Recommandations à l'intention des régulateurs pour atténuer les vulnérabilités SS7<br>• Cadre de compétences de SFN pour les consommateurs<br>*Intervenant : Vijay Mauree, Venkatesen, UIT* |
 | 12:30-13:30 | 60 min | **Pause déjeuner** |
