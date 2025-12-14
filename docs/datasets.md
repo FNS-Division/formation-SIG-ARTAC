@@ -15,17 +15,17 @@
 - [Zones de couverture 3G au Tchad](https://drive.google.com/file/d/1OjHoO4N0C1zWzbfPHjo5dRllBNDbLj9T/view?usp=drive_link) - `MCE_TD3G_2024.tif`
 - [Zones de couverture 4G au Tchad](https://drive.google.com/file/d/1PFVbM3MmqpGgCVG5ZUwC073oisHHBlb6/view?usp=drive_link) - `MCE_TD4G_2024.tif`
 
-## 2.3 Analyse de la couverture fixe
-[📁 Dossier complet](https://drive.google.com/drive/folders/1cNTpHMMiznUaKncQyHsWO1V8DIH8ZpH_?usp=drive_link)
-
-- [Dorsale de la fibre optique au Tchad](https://drive.google.com/file/d/1mTNeD9V-sgCeVzkGFxIdhBrryHHzEDbZ/view?usp=drive_link) - `TCD_lines.geojson`
-- [Population au Tchad](https://drive.google.com/file/d/1cpX-GVI0bfJ3_6zIUpXLXnYydBpjsTKw/view?usp=drive_link) - `tcd_pop_2025_CN_100m_R2025A_v1.tif`
-
-## 2.4 Analyse de la population et de la demande de connectivité
+## 2.3 Analyse de la population et de la demande de connectivité
 [📁 Dossier complet](https://drive.google.com/drive/folders/1N0iUcEJb_vRsTg1q09-89cLrGbuzLv3X?usp=drive_link)
 
 - [Écoles au Tchad](https://drive.google.com/file/d/1UyQ2vYH2a45Hpt-iNSNQ_UBf1cfMdUDA/view?usp=drive_link) - `Tchad-ecoles.geojson`
 - [Population au Tchad](https://drive.google.com/file/d/1WZQiXhRKttlR9OYV1VBUAJTomXdC-rXm/view?usp=drive_link) - `tcd_pop_2025_CN_100m_R2025A_v1.tif`
+
+## 2.4 Analyse de la couverture fixe
+[📁 Dossier complet](https://drive.google.com/drive/folders/1cNTpHMMiznUaKncQyHsWO1V8DIH8ZpH_?usp=drive_link)
+
+- [Dorsale de la fibre optique au Tchad](https://drive.google.com/file/d/1mTNeD9V-sgCeVzkGFxIdhBrryHHzEDbZ/view?usp=drive_link) - `TCD_lines.geojson`
+- [Population au Tchad](https://drive.google.com/file/d/1cpX-GVI0bfJ3_6zIUpXLXnYydBpjsTKw/view?usp=drive_link) - `tcd_pop_2025_CN_100m_R2025A_v1.tif`
 
 ## Données supplémentaires pour l'Afrique Centrale
 
