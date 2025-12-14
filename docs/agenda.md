@@ -4,7 +4,7 @@ L'atelier a lieu le 15 et 16 Décembre 2025 a N'Djamena, Tchad à l'hôtel l'Ami
 
 ## 15 Décembre 2025
 
-### Introduction et principes fondamentaux de l’analyse géospatiale avec discussions autour des données existantes dans les États membres de l’ATRAC
+### Introduction et principes fondamentaux de l’analyse géospatiale avec discussions autour des données existantes dans les États membres de l'ARTAC
 
 | Horaire | Durée | Session |
 |---------|-------|---------|
