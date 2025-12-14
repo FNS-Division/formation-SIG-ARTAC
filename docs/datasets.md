@@ -50,3 +50,7 @@
 - **Données** : [Accéder au dossier](https://drive.google.com/drive/folders/1jWrrQ7n3v1ujhpUX6Ocyx9qG41kzGuys?usp=drive_link)
 - **Source** : WorldPop
 
+### 6. Ecoles (emplacement)
+- **Données** : [Accéder au dossier](https://drive.google.com/drive/folders/1HpKEf83j3qf2hgxubq5TKmXzZKGgjQGl?usp=drive_link)
+- **Source** : OpenStreetMap
+
