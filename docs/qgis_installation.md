@@ -1,3 +1,24 @@
+# Désinstallation de QGIS
+
+Instructions pour désinstaller proprement QGIS selon votre système d’exploitation.
+
+## 🪟 Windows
+
+### Désinstallation
+1. Fermez **QGIS**
+2. Ouvrez **Paramètres → Applications → Applications installées**
+3. Recherchez **QGIS**
+4. Cliquez sur **Désinstaller**
+5. Suivez l’assistant
+
+## 🍎 macOS
+
+### Désinstallation
+1. Fermez **QGIS**
+2. Ouvrez le dossier **Applications**
+3. Faites glisser **QGIS.app** vers la **Corbeille**
+4. Videz la corbeille
+
 # Installation de QGIS
 
 QGIS est un logiciel libre et gratuit de système d'information géographique (SIG). Pour cet atelier, nous utiliserons **QGIS version 3.34.11 'Prizren LTR'** (version à long terme).
@@ -5,16 +26,12 @@ QGIS est un logiciel libre et gratuit de système d'information géographique (S
 ## Téléchargement
 
 ### Windows
-1. Visitez le site officiel : [https://qgis.org/fr/site/forusers/download.html](https://qgis.org/fr/site/forusers/download.html)
-2. Téléchargez **QGIS Standalone Installer Version 3.34 (LTR)**
-3. Exécutez le fichier `.exe` téléchargé
-4. Suivez les instructions d'installation (acceptez les paramètres par défaut)
+1. Téléchargez [QGIS Standalone Installer Version 3.34 (LTR)](https://drive.google.com/file/d/1ZM7Tb_ZV5cQ8_stJ30UP7jHk0tsJTPf1/view?usp=sharing)
+2. Suivez les instructions d'installation (acceptez les paramètres par défaut)
 
 ### macOS
-1. Visitez le site officiel : [https://qgis.org/fr/site/forusers/download.html](https://qgis.org/fr/site/forusers/download.html)
-2. Téléchargez **QGIS macOS Installer Version 3.34 (LTR)**
-3. Ouvrez le fichier `.dmg` téléchargé
-4. Glissez l'icône QGIS dans le dossier Applications
+1. Téléchargez [QGIS macOS Installer Version 3.34 (LTR)](https://qgis.org/downloads/macos/qgis-macos-pr.dmg)
+2. Glissez l'icône QGIS dans le dossier Applications
 
 # Installation des plugins QGIS
 
