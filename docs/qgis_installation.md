@@ -21,17 +21,17 @@ Instructions pour désinstaller proprement QGIS selon votre système d’exploit
 
 # Installation de QGIS
 
-QGIS est un logiciel libre et gratuit de système d'information géographique (SIG). Pour cet atelier, nous utiliserons **QGIS version 3.34.11 'Prizren LTR'** (version à long terme).
+QGIS est un logiciel libre et gratuit de système d'information géographique (SIG). Pour cet atelier, nous utiliserons **QGIS version 3.40 Bratislava LTR'** (version à long terme).
 
 ## Téléchargement
 
 ### Windows
 1. Téléchargez [Online (OSGeo4W) installer](https://download.osgeo.org/osgeo4w/v2/osgeo4w-setup.exe)
 2. Suivez les instructions d'installation (acceptez les paramètres par défaut)
-3. ⚠️ Choisissez la version **QGIS (LTR)** pour installer la version 3.40. Il faut éviter les versions avec Qt6 à cause d'incompatibilité avec certaines extensions.
+3. ⚠️ Choisissez la version **QGIS (LTR)** pour installer la version **3.40**. Il faut éviter les versions avec Qt6 à cause d'incompatibilité avec certaines extensions.
 
 ### macOS
-1. Téléchargez [QGIS macOS Installer Version 3.44 (LTR)](https://nbg1.your-objectstorage.com/qgis-download/macos/qgis-macos-pr.dmg)
+1. Téléchargez [QGIS macOS Installer(LTR)](https://nbg1.your-objectstorage.com/qgis-download/macos/qgis-macos-pr.dmg)
 2. Glissez l'icône QGIS dans le dossier Applications
 
 # Installation des plugins QGIS
