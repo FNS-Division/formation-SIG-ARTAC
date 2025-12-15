@@ -1,6 +1,7 @@
 # Présentations
 
 ## 15 Décembre 2025
+- **1.0** [Contexte de la collaboration UIT-ARTAC](https://drive.google.com/file/d/1_A1EoWT4c_0tuHGmP1eGlqheWKRArh-I/view?usp=drive_link)
 - **1.1** [Introduction à l'atelier](https://docs.google.com/presentation/d/1rQ1q5pRQrDu9p4eWCQbBlSt5S0P19yEr/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
 - **1.2** [Planification des activités de déploiement des infrastructures TIC](https://docs.google.com/presentation/d/17muqiHx_hTsNLoDVnpYPhWlALpbF1hFI/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
 - **1.3** [Types de données géospatiales](https://docs.google.com/presentation/d/117eImw5zGUmkXvcg4VZiz7fLdOBwe0hB/edit?usp=drive_link&ouid=110166480978407115454&rtpof=true&sd=true)
