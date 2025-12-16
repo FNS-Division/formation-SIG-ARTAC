@@ -26,7 +26,7 @@ QGIS est un logiciel libre et gratuit de système d'information géographique (S
 ## Téléchargement
 
 ### Windows
-1. Téléchargez [QGIS Long Term Release 3.40](https://qgis.org/downloads/QGIS-OSGeo4W-3.40.13-1.msi)
+1. Téléchargez QGIS Long Term Release 3.40 [Lien 1](https://qgis.org/downloads/QGIS-OSGeo4W-3.40.13-1.msi) [Lien 2](https://download.osgeo.org/osgeo4w/v2/osgeo4w-setup.exe)
 2. Suivez les instructions d'installation (acceptez les paramètres par défaut)
 3. ⚠️ Choisissez la version **QGIS (LTR)** pour installer la version **3.40**. Il faut éviter les versions avec Qt6 à cause d'incompatibilité avec certaines extensions.
 
